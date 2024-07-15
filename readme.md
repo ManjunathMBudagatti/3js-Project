@@ -30,5 +30,4 @@ The GLTF used in this example was made by 3DLadnik: https://sketchfab.com/3DLadn
 
 Released as CC-BY-4.0 by Sketchfab: https://sketchfab.com/3d-models/3d-printable-the-three-graces-58e0ae19e2984b86883edc41bf43415a
 
-# Notes
-Would be really appreciated if you are willing to give me a star here on GitHub 🎉 or buy me a coffee ☕ https://www.buymeacoffee.com/andersonmancini. The money will be used to produce more content about threejs or to buy new courses.
+
